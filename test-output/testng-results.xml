@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20357" started-at="2021-01-12T12:14:41Z" finished-at="2021-01-12T12:15:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20357" started-at="2021-01-12T12:14:41Z" finished-at="2021-01-12T12:15:01Z">
+      <class name="Osplash.Assignment.Homepage">
+        <test-method status="PASS" signature="Homepage(java.lang.String, java.lang.String)[pri:0, instance:Osplash.Assignment.Homepage@73846619]" name="Homepage" duration-ms="10471" started-at="2021-01-12T12:14:41Z" data-provider="getData" finished-at="2021-01-12T12:14:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mandeepmm08@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method status="PASS" signature="Homepage(java.lang.String, java.lang.String)[pri:0, instance:Osplash.Assignment.Homepage@73846619]" name="Homepage" duration-ms="9855" started-at="2021-01-12T12:14:51Z" data-provider="getData" finished-at="2021-01-12T12:15:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mandeepmm08@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+      </class> <!-- Osplash.Assignment.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
